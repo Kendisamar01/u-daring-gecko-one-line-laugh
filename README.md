@@ -1,13 +1,11 @@
-# One-Line Laugh Sprint entry
+# Later Rent
 
-[![One-Line Laugh Sprint](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2.svg)](https://make.fun/)
-[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/Kendisamar01/u-daring-gecko-one-line-laugh/rank.svg)](https://make.fun/)
-[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/Kendisamar01/u-daring-gecko-one-line-laugh/reward.svg)](https://make.fun/)
+An entry for make.fun's "One-Line Laugh Sprint" bounty, $5 in USDC.
 
-Python 3 standard library only.
+[![make.fun · u-daring-gecko-25-one-line-laugh-sprint-cda708b2](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/Kendisamar01/u-daring-gecko-one-line-laugh/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/Kendisamar01/u-daring-gecko-one-line-laugh/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
 
-    python3 main.py
-
-Validates the line and writes it to `/output/entry.txt`. Pass a path to write elsewhere for local tests.
-
-    python3 -m unittest discover -s tests
+```bash
+python3 main.py
+```
